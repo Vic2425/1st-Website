@@ -137,6 +137,9 @@ div.image img{
         background-image: linear-gradient(180deg, #CD7672 15%, #364751 50%);
     }
     /* ************* NAV-BAR Starts************ */
+    .logo img {
+        width: 85px;   
+    }
     .nav-bar {
         width: 100%;
         top: 0;
